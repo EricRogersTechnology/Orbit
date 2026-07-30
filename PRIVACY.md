@@ -1,5 +1,7 @@
 # Orbit — Privacy Policy
 
+PRIVACY.md: [Español](PRIVACY-es.html)
+
 **Last updated: July 21, 2026**
 
 Orbit (listed on the App Store as **Orbit Dashboard**) is an independent life-dashboard
