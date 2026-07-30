@@ -1,5 +1,5 @@
 # Orbit — Política de privacidad
-
+PRIVACY-es.md: [English](PRIVACY.html)
 **Última actualización: 21 de julio de 2026**
 
 Orbit (en la App Store aparece como **Orbit Dashboard**) es una app independiente de
