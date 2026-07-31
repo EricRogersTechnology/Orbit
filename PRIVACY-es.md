@@ -1,6 +1,6 @@
 # Orbit — Política de privacidad
 
-PRIVACY-es.md: [English](PRIVACY.html)
+[English](PRIVACY.html)
 
 **Última actualización: 21 de julio de 2026**
 
