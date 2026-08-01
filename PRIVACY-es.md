@@ -1,6 +1,6 @@
 # Orbit — Política de privacidad
 
-[English](PRIVACY.html)
+PRIVACY-es.md → [English](https://ericrogerstechnology.com/Orbit/PRIVACY.html)
 
 **Última actualización: 21 de julio de 2026**
 
